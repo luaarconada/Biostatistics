@@ -1,0 +1,232 @@
+glu bmi
+ 86.0000     Obese       
+195.0000     Overweight  
+ 77.0000     Obese       
+165.0000     Obese       
+107.0000     Overweight  
+ 97.0000     Obese       
+ 83.0000     Obese  
+87.0000      Underweight 
+90.0000      Underweight 
+100.0000     Underweight     
+193.0000     Overweight  
+142.0000     Obese       
+128.0000     Obese       
+137.0000     Obese       
+154.0000     Obese       
+189.0000     Obese       
+ 92.0000     Overweight  
+ 86.0000     Obese       
+ 99.0000     Normalweight
+109.0000     Overweight  
+143.0000     Obese       
+149.0000     Overweight  
+139.0000     Normalweight
+ 99.0000     Normalweight
+100.0000     Obese       
+ 83.0000     Overweight  
+101.0000     Normalweight
+ 87.0000     Obese       
+164.0000     Obese       
+ 99.0000     Overweight  
+140.0000     Obese       
+108.0000     Obese       
+110.0000     Obese       
+ 79.0000     Obese       
+148.0000     Obese   
+87.0000      Underweight 
+90.0000      Underweight 
+100.0000     Underweight 
+101.0744     Underweight 
+100.5617     Underweight 
+91.6659      Underweight     
+121.0000     Obese       
+158.0000     Obese       
+105.0000     Obese       
+145.0000     Normalweight
+ 79.0000     Overweight  
+ 71.0000     Normalweight
+102.0000     Overweight  
+119.0000     Obese       
+176.0000     Obese       
+ 97.0000     Overweight  
+129.0000     Overweight  
+ 97.0000     Normalweight
+ 86.0000     Obese       
+125.0000     Obese       
+123.0000     Obese       
+ 92.0000     Normalweight
+171.0000     Obese       
+199.0000     Obese       
+116.0000     Overweight  
+ 83.0000     Obese       
+154.0000     Obese       
+114.0000     Obese       
+106.0000     Obese       
+127.0000     Obese       
+124.0000     Overweight  
+109.0000     Normalweight
+123.0000     Obese       
+167.0000     Obese       
+184.0000     Obese       
+ 96.0000     Obese       
+129.0000     Obese       
+ 92.0000     Obese       
+109.0000     Overweight  
+139.0000     Obese       
+134.0000     Obese       
+106.0000     Obese       
+131.0000     Obese       
+135.0000     Obese       
+158.0000     Obese       
+112.0000     Obese       
+181.0000     Obese       
+121.0000     Obese       
+168.0000     Obese       
+144.0000     Obese       
+101.0000     Normalweight
+ 96.0000     Normalweight
+107.0000     Normalweight
+121.0000     Overweight  
+100.0000     Overweight  
+154.0000     Obese       
+125.0000     Overweight  
+125.0000     Obese       
+122.0000     Obese       
+114.0000     Overweight  
+115.0000     Obese       
+114.0000     Normalweight
+115.0000     Obese       
+130.0000     Overweight  
+ 79.0000     Obese       
+112.0000     Obese       
+150.0000     Obese       
+ 91.0000     Overweight  
+100.0000     Overweight  
+140.0000     Obese       
+110.0000     Overweight  
+ 94.0000     Obese       
+ 84.0000     Obese       
+148.0000     Obese       
+ 61.0000     Obese       
+117.0000     Overweight  
+ 99.0000     Normalweight
+ 80.0000     Obese       
+154.0000     Obese       
+103.0000     Obese       
+111.0000     Obese       
+124.0000     Overweight  
+143.0000     Overweight  
+ 81.0000     Obese       
+189.0000     Overweight  
+116.0000     Normalweight
+103.0000     Obese       
+124.0000     Overweight  
+ 71.0000     Obese       
+137.0000     Overweight  
+112.0000     Obese       
+148.0000     Obese       
+136.0000     Obese       
+145.0000     Obese       
+ 93.0000     Normalweight
+107.0000     Obese       
+151.0000     Obese       
+ 97.0000     Obese       
+144.0000     Obese       
+112.0000     Obese       
+ 99.0000     Normalweight
+109.0000     Overweight  
+120.0000     Obese       
+187.0000     Obese       
+129.0000     Obese       
+179.0000     Obese       
+ 80.0000     Overweight  
+105.0000     Obese       
+191.0000     Obese       
+ 95.0000     Obese       
+ 99.0000     Overweight  
+137.0000     Normalweight
+87.0000      Underweight 
+90.0000      Underweight 
+100.0000     Underweight 
+101.0744     Underweight 
+100.5617     Underweight 
+91.6659      Underweight 
+ 97.0000     Normalweight
+100.0000     Obese       
+167.0000     Normalweight
+180.0000     Obese       
+122.0000     Obese       
+ 90.0000     Overweight  
+120.0000     Obese       
+154.0000     Obese       
+ 56.0000     Normalweight
+177.0000     Obese       
+124.0000     Obese       
+ 85.0000     Normalweight
+ 88.0000     Obese       
+152.0000     Obese       
+198.0000     Obese       
+188.0000     Obese       
+139.0000     Overweight  
+168.0000     Obese       
+197.0000     Obese       
+142.0000     Normalweight
+126.0000     Overweight  
+158.0000     Obese       
+130.0000     Overweight  
+100.0000     Obese       
+164.0000     Obese       
+ 95.0000     Obese 
+87.0000      Underweight 
+90.0000      Underweight 
+100.0000     Underweight 
+101.0744     Underweight 
+100.5617     Underweight 
+91.6659      Underweight       
+122.0000     Obese       
+ 85.0000     Overweight  
+151.0000     Obese       
+144.0000     Obese       
+111.0000     Overweight  
+107.0000     Overweight  
+115.0000     Obese       
+105.0000     Obese       
+194.0000     Obese       
+184.0000     Obese       
+ 95.0000     Obese       
+124.0000     Overweight  
+111.0000     Normalweight
+137.0000     Obese       
+ 57.0000     Obese       
+157.0000     Obese       
+ 95.0000     Overweight  
+140.0000     Obese       
+117.0000     Obese       
+100.0000     Obese       
+123.0000     Obese       
+138.0000     Obese       
+100.0000     Obese       
+175.0000     Obese       
+ 74.0000     Overweight  
+133.0000     Obese       
+119.0000     Obese       
+155.0000     Obese       
+128.0000     Obese       
+112.0000     Obese       
+140.0000     Normalweight
+141.0000     Overweight  
+129.0000     Obese       
+106.0000     Obese       
+118.0000     Obese       
+155.0000     Obese       
+104.0000     Underweight 
+100.0000     Underweight 
+103.0000     Underweight 
+104.0000     Underweight 
+102.0000     Underweight 
+100.0000     Underweight 
+104.0000     Underweight 
+101.0744     Underweight 
+100.5617     Underweight 
+106.6659     Underweight 
